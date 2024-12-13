@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED52CF97-9176-434A-A6F6-C122287B5F02}|..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\infrastructure\\data\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|c:\\users\\dead inside\\source\\repos\\ecommercemicroservice\\emailwebhook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|solutionrelative:emailwebhook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED52CF97-9176-434A-A6F6-C122287B5F02}|..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|c:\\users\\dead inside\\source\\repos\\ecommercemicroservice\\emailwebhook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|solutionrelative:emailwebhook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED52CF97-9176-434A-A6F6-C122287B5F02}|..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF13A0F-ECB8-442D-B607-3C1573D4C3EA}|..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\AuthApiSolution.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.authapisolution\\authapisolution.presentation\\infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED52CF97-9176-434A-A6F6-C122287B5F02}|..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\application\\dtos\\conversions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\infrastructure\\data\\coupondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\application\\interfaces\\ibonus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF13A0F-ECB8-442D-B607-3C1573D4C3EA}|..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\AuthApiSolution.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.authapisolution\\authapisolution.presentation\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF13A0F-ECB8-442D-B607-3C1573D4C3EA}|..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\AuthApiSolution.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.authapisolution\\authapisolution.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|c:\\users\\dead inside\\source\\repos\\ecommercemicroservice\\emailwebhook\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|solutionrelative:emailwebhook\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF13A0F-ECB8-442D-B607-3C1573D4C3EA}|..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\AuthApiSolution.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.authapisolution\\authapisolution.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|c:\\users\\dead inside\\source\\repos\\ecommercemicroservice\\emailwebhook\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AE28FB-43E4-45D4-9AB2-D83C8C5138E6}|EmailWebhook\\EmailWebhook.csproj|solutionrelative:emailwebhook\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF50FA6-5B87-41DC-A5CB-9F4A1B22FB8B}|..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.sharedlibrarysolution\\ecommercelib.sharedlibrary\\dtos\\emaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:00:06.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:55:30.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:55:02.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwG0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:52:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductConversion.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\Conversions\\ProductConversion.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\Conversions\\ProductConversion.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\Conversions\\ProductConversion.cs",
+              "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\Conversions\\ProductConversion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:51:27.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CouponDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Data\\CouponDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Data\\CouponDbContext.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Data\\CouponDbContext.cs",
+              "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Data\\CouponDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:50:53.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBonus.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonus.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonus.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonus.cs",
+              "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:50:38.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:28:51.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:28:40.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:16:46.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:16:42.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Program.cs",
+              "RelativeDocumentMoniker": "EmailWebhook\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Program.cs",
+              "RelativeToolTip": "EmailWebhook\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:16:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T19:15:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:15:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:14:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\appsettings.json",
+              "RelativeDocumentMoniker": "EmailWebhook\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\appsettings.json",
+              "RelativeToolTip": "EmailWebhook\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:14:36.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:14:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T19:12:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:57:17.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailWebhook\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Services\\EmailService.cs",
+              "RelativeToolTip": "EmailWebhook\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:52:55.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DTOs\\EmailDTO.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DTOs\\EmailDTO.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DTOs\\EmailDTO.cs",
+              "RelativeToolTip": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DTOs\\EmailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:51:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "EmailWebhook\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Services\\IEmailService.cs",
+              "RelativeToolTip": "EmailWebhook\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:50:58.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAF4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:49:10.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

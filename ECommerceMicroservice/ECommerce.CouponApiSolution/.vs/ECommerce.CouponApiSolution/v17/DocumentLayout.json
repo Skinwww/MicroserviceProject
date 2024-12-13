@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\couponapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|solutionrelative:couponapi.presentation\\couponapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|solutionrelative:couponapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\controllers\\promocodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|solutionrelative:couponapi.presentation\\controllers\\promocodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\controllers\\bonuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|solutionrelative:couponapi.presentation\\controllers\\bonuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|solutionrelative:couponapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{203C1509-8246-4525-9E52-6BE4E2330C7B}|CouponApi.Presentation\\CouponApi.Presentation.csproj|solutionrelative:couponapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "CouponApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
+              "RelativeToolTip": "CouponApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:03:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CouponApi.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "CouponApi.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T19:01:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "CouponApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "CouponApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T17:52:36.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromoCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
+              "RelativeDocumentMoniker": "CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
+              "RelativeToolTip": "CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:58:29.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BonusController.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
+              "RelativeDocumentMoniker": "CouponApi.Presentation\\Controllers\\BonusController.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
+              "RelativeToolTip": "CouponApi.Presentation\\Controllers\\BonusController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:50:19.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponApi.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj",
+              "RelativeDocumentMoniker": "CouponApi.Presentation\\CouponApi.Presentation.csproj",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj",
+              "RelativeToolTip": "CouponApi.Presentation\\CouponApi.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T17:41:53.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
