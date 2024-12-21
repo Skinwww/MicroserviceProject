@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\consumer\\bonusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\infrastructure\\repositories\\bonusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,9 +19,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\application\\dto\\bonusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C8CB87A-FA10-4B88-BF16-F70AB7D5137C}|..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\CouponApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.couponapisolution\\couponapi.presentation\\consumer\\bonusconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{339D92F3-13F3-44FC-AC8E-18FF53851C51}|..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.productapisolution\\producapi.presentation\\application\\dtos\\conversions\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -157,7 +157,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -191,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BonusController.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
@@ -239,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IBonus.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonus.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonus.cs",
@@ -251,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BonusConsumer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Consumer\\BonusConsumer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Consumer\\BonusConsumer.cs",
@@ -259,24 +259,25 @@
               "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Consumer\\BonusConsumer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T19:09:18.322Z"
+              "WhenOpened": "2024-12-20T19:09:18.322Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BonusRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\BonusRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\BonusRepository.cs",
               "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\BonusRepository.cs",
               "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\BonusRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwCUAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-20T18:01:01.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BonusDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BonusDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BonusDTO.cs",
@@ -288,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PromoCodeRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\PromoCodeRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\PromoCodeRepository.cs",
