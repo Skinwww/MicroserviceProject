@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "xkpb0CYLDMY1rXcD1eCwIpUE/pBERUzFrPuFdLD4Uhc=",
+  "Source": "OrderApi.Presentation",
+  "BasePath": "_content/OrderApi.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\ProducApi.Presentation.csproj",
+      "Version": 2,
+      "Source": "ProducApi.Presentation",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
