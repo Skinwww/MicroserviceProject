@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\infrastructure\\migrations\\20241212113510_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\infrastructure\\migrations\\20241212113510_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\orderapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\orderapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEA8DE-D8CD-4327-B885-D51C4FCE3BCC}|..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.sharedlibrarysolution\\ecommercelib.sharedlibrary\\ecommercelib.sharedlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEA8DE-D8CD-4327-B885-D51C4FCE3BCC}|..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.sharedlibrarysolution\\ecommercelib.sharedlibrary\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.orderapisolution\\orderapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EAF56E0-05B3-406C-8D20-49E5D0C1F2FF}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CEA8DE-D8CD-4327-B885-D51C4FCE3BCC}|..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.sharedlibrarysolution\\ecommercelib.sharedlibrary\\middleware\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderApi.Presentation\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:46:17.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241212113510_third.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Migrations\\20241212113510_third.cs",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\Infrastructure\\Migrations\\20241212113510_third.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Migrations\\20241212113510_third.cs",
+              "RelativeToolTip": "OrderApi.Presentation\\Infrastructure\\Migrations\\20241212113510_third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:46:15.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "OrderApi.Presentation\\Application\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:45:45.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwEQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-11T21:28:39.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderApi.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\OrderApi.Presentation.csproj",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj",
+              "RelativeToolTip": "OrderApi.Presentation\\OrderApi.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:27:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ECommercelib.SharedLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj",
+              "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj",
+              "RelativeToolTip": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\ECommercelib.SharedLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:24:19.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Responses\\Response.cs",
+              "RelativeToolTip": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:14:58.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Middleware\\GlobalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:46:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "OrderApi.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T13:25:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T17:28:10.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderApi.Presentation\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:19:30.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
+              "RelativeToolTip": "OrderApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T17:15:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "OrderApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T15:22:55.563Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
