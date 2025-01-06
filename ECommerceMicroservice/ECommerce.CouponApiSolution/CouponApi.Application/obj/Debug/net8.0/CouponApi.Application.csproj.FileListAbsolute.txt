@@ -1,0 +1,17 @@
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\CouponApi.Application.deps.json
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\CouponApi.Application.dll
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\CouponApi.Application.pdb
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\CouponApi.Domain.dll
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\ECommercelib.SharedLibrary.dll
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\ECommercelib.SharedLibrary.pdb
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\bin\Debug\net8.0\CouponApi.Domain.pdb
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.csproj.AssemblyReference.cache
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.AssemblyInfoInputs.cache
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.AssemblyInfo.cs
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponAp.CD5EB7EC.Up2Date
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.dll
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\refint\CouponApi.Application.dll
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\CouponApi.Application.pdb
+C:\Users\dead inside\source\repos\ECommerce.CouponApiSolution\CouponApi.Application\obj\Debug\net8.0\ref\CouponApi.Application.dll
