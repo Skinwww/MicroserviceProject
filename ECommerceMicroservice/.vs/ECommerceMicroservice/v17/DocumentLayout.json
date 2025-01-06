@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EAC368B1-07FF-4407-A781-E2542AF319C7}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{EAC368B1-07FF-4407-A781-E2542AF319C7}|C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EAC368B1-07FF-4407-A781-E2542AF319C7}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{EAC368B1-07FF-4407-A781-E2542AF319C7}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AFF13A0F-ECB8-442D-B607-3C1573D4C3EA}|..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\AuthApiSolution.Presentation.csproj|c:\\users\\dead inside\\source\\repos\\ecommerce.authapisolution\\authapisolution.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -210,11 +214,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Services\\EmailService.cs",
               "RelativeDocumentMoniker": "EmailWebhook\\Services\\EmailService.cs",
@@ -227,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SharedServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
@@ -239,12 +243,25 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-06T12:03:21.614Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Controllers\\AuthController.cs",
@@ -257,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
@@ -265,12 +282,11 @@
               "RelativeToolTip": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T14:49:10.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T14:49:10.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.Development.json",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.Development.json",
@@ -282,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
@@ -294,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\DependencyInjection\\ServiceContainer.cs",
@@ -306,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\Services\\OrderService.cs",
@@ -318,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
@@ -326,12 +342,11 @@
               "RelativeToolTip": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAwwEMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-19T14:05:21.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-19T14:05:21.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BonusController.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
@@ -339,12 +354,11 @@
               "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\BonusController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T20:55:47.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-20T20:55:47.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PromoCodeController.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
@@ -352,12 +366,11 @@
               "RelativeToolTip": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Controllers\\PromoCodeController.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T23:09:24.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T23:09:24.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GlobalException.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Middleware\\GlobalException.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Middleware\\GlobalException.cs",
@@ -369,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "OrderConversion.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\Conversions\\OrderConversion.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\Conversions\\OrderConversion.cs",
@@ -381,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DependencyInjection\\ServiceContainer.cs",
@@ -393,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
@@ -405,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
@@ -417,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\ProductDTO.cs",
@@ -429,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "OrderDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\OrderDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\OrderDTO.cs",
@@ -441,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "OrderDetailsDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\OrderDetailsDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\OrderDetailsDTO.cs",
@@ -453,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProductConsumer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Consumer\\ProductConsumer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Consumer\\ProductConsumer.cs",
@@ -465,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\Interfaces\\IOrderRepository.cs",
@@ -477,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Repositories\\OrderRepository.cs",
@@ -489,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\DependencyInjection\\ServiceContainer.cs",
@@ -501,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
@@ -513,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Domain\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Domain\\Entities\\Order.cs",
@@ -525,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Domain\\Entities\\Product.cs",
@@ -537,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IGenericInterface.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Interface\\IGenericInterface.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Interface\\IGenericInterface.cs",
@@ -549,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Infrastructure\\Repositories\\ProductRepository.cs",
@@ -561,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Services\\IEmailService.cs",
               "RelativeDocumentMoniker": "EmailWebhook\\Services\\IEmailService.cs",
@@ -573,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IBonusRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonusRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IBonusRepository.cs",
@@ -585,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\ProductDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\ProductDTO.cs",
@@ -597,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "BonusRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\BonusRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\BonusRepository.cs",
@@ -609,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "PromoCodeRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\PromoCodeRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Infrastructure\\Repositories\\PromoCodeRepository.cs",
@@ -621,7 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Infrastructure\\Repositories\\UserRepository.cs",
@@ -633,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "BonusConsumer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Consumer\\BonusConsumer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Consumer\\BonusConsumer.cs",
@@ -645,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ServiceContainer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Dependency Injection\\ServiceContainer.cs",
               "RelativeDocumentMoniker": "EmailWebhook\\Dependency Injection\\ServiceContainer.cs",
@@ -657,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ProductConversion.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\Conversions\\ProductConversion.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.ProductApiSolution\\ProducApi.Presentation\\Application\\DTOs\\Conversions\\ProductConversion.cs",
@@ -669,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "AuthConsumer.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Consumer\\AuthConsumer.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Consumer\\AuthConsumer.cs",
@@ -681,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "EmailDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DTOs\\EmailDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DTOs\\EmailDTO.cs",
@@ -693,7 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "JWTAuthScheme.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DependencyInjection\\JWTAuthScheme.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\DependencyInjection\\JWTAuthScheme.cs",
@@ -705,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Responses\\Response.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.SharedLibrarySolution\\ECommercelib.SharedLibrary\\Responses\\Response.cs",
@@ -717,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\Interfaces\\IUserRepository.cs",
@@ -729,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "GetUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\DTOs\\GetUserDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\DTOs\\GetUserDTO.cs",
@@ -741,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "AppUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\DTOs\\AppUserDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\DTOs\\AppUserDTO.cs",
@@ -753,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "RedeemPromoCodeRequest.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Domain\\Entities\\RedeemPromoCodeRequest.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Domain\\Entities\\RedeemPromoCodeRequest.cs",
@@ -765,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\DTOs\\LoginDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Application\\DTOs\\LoginDTO.cs",
@@ -777,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "IPromoCodeRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IPromoCodeRepository.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\Interfaces\\IPromoCodeRepository.cs",
@@ -789,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "PromoCode.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Domain\\Entities\\PromoCode.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Domain\\Entities\\PromoCode.cs",
@@ -801,7 +814,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "BottleDepositDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BottleDepositDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BottleDepositDTO.cs",
@@ -813,7 +826,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "BonusSummaryDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BonusSummaryDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BonusSummaryDTO.cs",
@@ -825,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "BonusDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BonusDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\BonusDTO.cs",
@@ -837,7 +850,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "BonusConversions.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\Conversions\\BonusConversions.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\Conversions\\BonusConversions.cs",
@@ -849,7 +862,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "OrderDbContext.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\OrderDbContext.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Infrastructure\\Data\\OrderDbContext.cs",
@@ -861,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "PromoCodeDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\PromoCodeDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Application\\DTO\\PromoCodeDTO.cs",
@@ -873,7 +886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "OrderSummaryDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\OrderSummaryDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\OrderSummaryDTO.cs",
@@ -885,7 +898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "AppUserDTO.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\AppUserDTO.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\Application\\DTOs\\AppUserDTO.cs",
@@ -897,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\appsettings.json",
               "RelativeDocumentMoniker": "EmailWebhook\\appsettings.json",
@@ -909,7 +922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\appsettings.json",
@@ -921,7 +934,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\Program.cs",
@@ -933,7 +946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "..\\ECommerce.CouponApiSolution\\CouponApi.Presentation\\appsettings.json",
@@ -945,7 +958,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerceMicroservice\\EmailWebhook\\Program.cs",
               "RelativeDocumentMoniker": "EmailWebhook\\Program.cs",
@@ -957,7 +970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "20241219175454_First.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Migrations\\20241219175454_First.cs",
               "RelativeDocumentMoniker": "..\\ECommerce.AuthApiSolution\\AuthApiSolution.Presentation\\Migrations\\20241219175454_First.cs",
@@ -969,7 +982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "OrderApi.Presentation.csproj",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj",
               "RelativeDocumentMoniker": "..\\ECommerce.OrderApiSolution\\OrderApi.Presentation\\OrderApi.Presentation.csproj",
@@ -981,7 +994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\AppData\\Local\\Temp\\Rar$DIa21160.13423.rartemp\\OrderRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa21160.13423.rartemp\\OrderRepository.cs",
@@ -993,7 +1006,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dead inside\\source\\repos\\Inventory Service\\Inventory Service\\Program.cs",
               "RelativeDocumentMoniker": "..\\Inventory Service\\Inventory Service\\Program.cs",
