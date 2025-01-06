@@ -1,0 +1,17 @@
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\bin\Debug\net8.0\ECommercelib.SharedLibrary.deps.json
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\bin\Debug\net8.0\ECommercelib.SharedLibrary.runtimeconfig.json
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\bin\Debug\net8.0\ECommercelib.SharedLibrary.dll
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\bin\Debug\net8.0\ECommercelib.SharedLibrary.pdb
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.AssemblyInfoInputs.cache
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.AssemblyInfo.cs
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommerc.5C8F0755.Up2Date
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.dll
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\refint\ECommercelib.SharedLibrary.dll
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.pdb
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ECommercelib.SharedLibrary.genruntimeconfig.cache
+C:\Users\dead inside\source\repos\ECommerce.SharedLibrarySolution\ECommercelib.SharedLibrary\obj\Debug\net8.0\ref\ECommercelib.SharedLibrary.dll
