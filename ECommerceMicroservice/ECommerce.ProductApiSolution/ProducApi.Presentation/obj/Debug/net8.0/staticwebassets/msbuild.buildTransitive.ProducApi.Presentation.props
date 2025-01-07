@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ProducApi.Presentation.props" />
-</Project>
